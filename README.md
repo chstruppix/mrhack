@@ -14,6 +14,6 @@ After that, download the file 'mrhackk.ctb' provided in this repo and run it on 
 
 These notes cover in-brief the very basics of Kali Linux, tools used for reconnaissance, enumeration and exploitation on a wide variety of systems with basic vulnerabilities and exploitation on Active Directory and should act as notes for https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course. 
 
-I will try to keep the notes updated and constantly improved, and appreciate any help given in the process. For further information or queries, mail me on the public mail provided on my profile.
+I will try to keep the notes updated and constantly improved, and appreciate any help received in the process. For further information or queries, mail me on the public mail provided on my profile.
 
 Stay safe.
