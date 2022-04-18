@@ -10,7 +10,7 @@ These notes provide best-value when combined with his Practical Ethical Hacking 
 I hope this repo stands valuable to you, both practically and educatively, while staying ethical in scope and purpose.
 
 To access my notes, simply download and install a working version of CherryTree (language: English) based on your Operating System on https://www.giuspen.com/cherrytree/ 
-After that, download the file 'mrhack.ctx' provided in this repo and run it on CherryTree. Make changes as need-be BUT give proper credits upon usage (as required by the MIT License this repo carries).
+After that, download the file 'mrhackk.ctb' provided in this repo and run it on CherryTree. Make changes as need-be BUT give proper credits upon usage (as required by the MIT License this repo carries).
 
 These notes cover in-brief the very basics of Kali Linux, tools used for reconnaissance, enumeration and exploitation on a wide variety of systems with basic vulnerabilities and exploitation on Active Directory. 
 
