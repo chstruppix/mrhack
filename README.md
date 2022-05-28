@@ -1,7 +1,7 @@
 # mrhack
 **Your place for the best beginner-friendly notes on all-things-hacking!**
 
-These notes are meant to be paired with Heath Adam's ![Practical Ethical Hacking- The Complete Course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
+These notes are meant to be paired with Heath Adam's ![Practical Ethical Hacking- The Complete Course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course).
 
 
 First things first, I do NOT own or (intend to) endorse any tools, websites or companies mentioned in the contents (notes) of this repo. All registered tools and services listed in these notes belong to their respective owners. The information provided about such tools is COMPLETELY my viewpoint added to their real definitions, with much influence from Heath Adams (more on this below). However, everything in this repo is created and written by me and Heath is only responsible as a basic source for general information, not however otherwise, and e is not responsible for anything in this repo, particularly. I have provided credits wherever possible in the file itself, however, for any unintended exceptions, you may email me on my public mail and I would do what need be. The content provided in this repo is dedicated for ethical and educational purposes, and I am NOT responsible if utilized otherwise.
